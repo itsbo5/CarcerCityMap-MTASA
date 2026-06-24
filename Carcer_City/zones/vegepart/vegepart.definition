@@ -1,0 +1,6 @@
+<zoneDefinitions>
+    <definition id="chazelnew_veg" zone="vegepart" col="chazelnew_veg" txd="chazelnew_veg" flags="2,7,12,13,21" lodDistance="45"></definition>
+    <definition id="central_hazel" zone="vegepart" col="central_hazel" txd="chazel" flags="2,7,12,13,21" lodDistance="45"></definition>
+    <definition id="Gen_Tree" zone="vegepart" col="Gen_Tree" txd="chazelnew_veg" flags="2,7,12,13,21" lodDistance="45"></definition>
+    <definition id="LI_pinetree" zone="vegepart" col="LI_pinetree" txd="chazelnew_veg" flags="2,7,12,13,21" lodDistance="45"></definition>
+</zoneDefinitions>

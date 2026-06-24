@@ -1,0 +1,56 @@
+<meta>
+    <info author="Blue Eagle" version="3.0.0" name="Carcer_City" />
+
+
+    <file type="client" src="eagleZones.txt" />
+
+
+    <file type="client" src="interiors.map" />
+
+
+    <file type="client" src="imgs/dff.img" />
+    <file type="client" src="imgs/col.img" />
+    <file type="client" src="imgs/txd.img" />
+
+
+    <file type="client" src="water.dat" />
+
+
+    <file type="client" src="zones/clark/clark.map" />
+    <file type="client" src="zones/lac_props/lac_props.map" />
+    <file type="client" src="zones/lacW/lacW.map" />
+    <file type="client" src="zones/cc_interiors/cc_interiors.map" />
+    <file type="client" src="zones/clark_levels/clark_levels.map" />
+    <file type="client" src="zones/cc_subway/cc_subway.map" />
+    <file type="client" src="zones/lacWlevels/lacWlevels.map" />
+    <file type="client" src="zones/clark_props2/clark_props2.map" />
+    <file type="client" src="zones/clk_interior/clk_interior.map" />
+    <file type="client" src="zones/lacElevels/lacElevels.map" />
+    <file type="client" src="zones/clark_gen/clark_gen.map" />
+    <file type="client" src="zones/lac_props2/lac_props2.map" />
+    <file type="client" src="zones/lacE/lacE.map" />
+    <file type="client" src="zones/clark_props/clark_props.map" />
+
+
+    <file type="client" src="zones/cc_interiors/cc_interiors.definition" />
+    <file type="client" src="zones/clark/clark.definition" />
+    <file type="client" src="zones/clk_interior/clk_interior.definition" />
+    <file type="client" src="zones/clark_gen/clark_gen.definition" />
+    <file type="client" src="zones/cc_subway/cc_subway.definition" />
+    <file type="client" src="zones/lacElevels/lacElevels.definition" />
+    <file type="client" src="zones/dynamic2/dynamic2.definition" />
+    <file type="client" src="zones/dynamic/dynamic.definition" />
+    <file type="client" src="zones/lacE/lacE.definition" />
+    <file type="client" src="zones/lacW/lacW.definition" />
+    <file type="client" src="zones/clark_levels/clark_levels.definition" />
+    <file type="client" src="zones/vegepart/vegepart.definition" />
+    <file type="client" src="zones/lacWlevels/lacWlevels.definition" />
+
+
+
+
+
+
+
+
+</meta>

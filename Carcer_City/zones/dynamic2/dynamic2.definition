@@ -1,0 +1,4 @@
+<zoneDefinitions>
+    <definition id="CJ_Lamppost" zone="dynamic2" col="CJ_Lamppost" txd="cjlamp" flags="7,15" lodDistance="59"></definition>
+    <definition id="jou_StreetLite" zone="dynamic2" col="jou_StreetLite" txd="joulamp" flags="7,15" lodDistance="59"></definition>
+</zoneDefinitions>

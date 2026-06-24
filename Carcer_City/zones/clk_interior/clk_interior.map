@@ -1,0 +1,29 @@
+<map>
+    <building  id="industbox" posX="266.27353" posY="11.57202" posZ="997.79828" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="misswareceiling" posX="248.49702" posY="-0.08037" posZ="1001.87018" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="misswarepics" posX="264.26935" posY="-0.08525" posZ="998.73065" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <object  id="industshelves" posX="224.1788" posY="4.6707" posZ="999.27771" rotX="0" rotY="-0" rotZ="-180" interior="1"></object>
+    <object  id="industshelves" posX="224.17899" posY="10.89328" posZ="999.27771" rotX="0" rotY="-0" rotZ="-180" interior="1"></object>
+    <object  id="industshelves" posX="229.36237" posY="13.13833" posZ="999.27771" rotX="0" rotY="-0" rotZ="90.000035460221" interior="1"></object>
+    <object  id="industshelves" posX="235.58495" posY="13.13813" posZ="999.27771" rotX="0" rotY="-0" rotZ="90.000035460221" interior="1"></object>
+    <object  id="industshelves" posX="241.80753" posY="13.13795" posZ="999.27771" rotX="0" rotY="-0" rotZ="90.000035460221" interior="1"></object>
+    <object  id="industshelves" posX="248.03011" posY="13.13775" posZ="999.27771" rotX="0" rotY="-0" rotZ="90.000035460221" interior="1"></object>
+    <object  id="industshelves" posX="254.25269" posY="13.13756" posZ="999.27771" rotX="0" rotY="-0" rotZ="90.000035460221" interior="1"></object>
+    <building  id="misswaretools" posX="265.20911" posY="9.67356" posZ="998.25146" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="misswarerecep" posX="266.061" posY="-6.14382" posZ="997.67993" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="misswarehouseshell" posX="250.00024" posY="0.00272" posZ="1000.00543" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="debthaus" posX="100" posY="-100.00001" posZ="1000" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="liamaptshell" posX="215.00006" posY="-214.99992" posZ="1000.00446" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="liamapt1kitch" posX="212.11583" posY="-213.00958" posZ="999.34613" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="liamaptliv" posX="216.13429" posY="-212.59163" posZ="998.84827" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="liamapt1bed" posX="216.92416" posY="-216.4339" posZ="999.25153" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="liamapt1decor" posX="214.98421" posY="-215.21712" posZ="1000.005" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="ammu_carc_bits" posX="308.23047" posY="296.01562" posZ="1000" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="ammu_carc_bits2" posX="309.06055" posY="303.40527" posZ="1000.28003" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="ammu_carc_bits3" posX="299.62012" posY="301.71582" posZ="1000" rotX="0" rotY="-0" rotZ="179.99996767028" interior="1"></building>
+    <building  id="ammu_carc_main" posX="296.91113" posY="300.06543" posZ="1002" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="ammu_carc_net" posX="307.07129" posY="295.95605" posZ="1003.29004" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="ammu_carc_wnd" posX="305.06055" posY="303.40527" posZ="1001.58008" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="cc_toolshop" posX="-67" posY="67" posZ="1000" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+    <building  id="crackhouse" posX="22" posY="22" posZ="1000" rotX="0" rotY="-0" rotZ="-0" interior="1"></building>
+</map>

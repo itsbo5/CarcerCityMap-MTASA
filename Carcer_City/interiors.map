@@ -1,0 +1,10 @@
+<map>
+    <interiorEntry  id="BUNCH-exit" posX="825.779" posY="-795.0626" posZ="19.3671" rotation="285.8411" interior="0" oneway="false" dimension="0" />
+    <interiorReturn  refid="BUNCH-exit" posX="193.4277" posY="1129.0937" posZ="12.5507" rotation="0" interior="0" oneway="false" dimension="0" />
+    <interiorEntry  id="SAFEHLS-exit" posX="194.9155" posY="-200.925" posZ="998.5643" rotation="90" interior="0" oneway="false" dimension="0" />
+    <interiorReturn  refid="SAFEHLS-exit" posX="194.9155" posY="-200.925" posZ="998.5643" rotation="-90" interior="1" oneway="false" dimension="0" />
+    <interiorEntry  id="SAFEHCL-exit" posX="214.5429" posY="-216.2199" posZ="998.2857" rotation="90" interior="0" oneway="false" dimension="0" />
+    <interiorReturn  refid="SAFEHCL-exit" posX="214.5429" posY="-216.2199" posZ="998.2857" rotation="0" interior="1" oneway="false" dimension="0" />
+    <interiorEntry  id="AMMUN-exit" posX="391.0673" posY="209.0736" posZ="18.8945" rotation="0" interior="0" oneway="false" dimension="0" />
+    <interiorReturn  refid="AMMUN-exit" posX="1189.1085" posY="-781.9619" posZ="19.3709" rotation="270" interior="0" oneway="false" dimension="0" />
+</map>

@@ -1,0 +1,26 @@
+<zoneDefinitions>
+    <definition id="Gen_Trashcan" zone="dynamic" col="Gen_Trashcan" txd="cc_trashcan" flags="7" lodDistance="50"></definition>
+    <definition id="CJ_WRECK2" zone="dynamic" col="CJ_WRECK2" txd="wreckcars" flags="" lodDistance="299"></definition>
+    <definition id="CJ_coach" zone="dynamic" col="CJ_coach" txd="wreckcars" flags="" lodDistance="299"></definition>
+    <definition id="CJ_BIO_Drum" zone="dynamic" col="CJ_BIO_Drum" txd="biodrum" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig" zone="dynamic" col="cc_hiwaysig" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig01" zone="dynamic" col="cc_hiwaysig01" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig02" zone="dynamic" col="cc_hiwaysig02" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig03" zone="dynamic" col="cc_hiwaysig03" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig04" zone="dynamic" col="cc_hiwaysig04" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig05" zone="dynamic" col="cc_hiwaysig05" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig06" zone="dynamic" col="cc_hiwaysig06" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig07" zone="dynamic" col="cc_hiwaysig07" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig08" zone="dynamic" col="cc_hiwaysig08" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig09" zone="dynamic" col="cc_hiwaysig09" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig10" zone="dynamic" col="cc_hiwaysig10" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig11" zone="dynamic" col="cc_hiwaysig11" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig12" zone="dynamic" col="cc_hiwaysig12" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig13" zone="dynamic" col="cc_hiwaysig13" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig14" zone="dynamic" col="cc_hiwaysig14" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig15" zone="dynamic" col="cc_hiwaysig15" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig16" zone="dynamic" col="cc_hiwaysig16" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig17" zone="dynamic" col="cc_hiwaysig17" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig18" zone="dynamic" col="cc_hiwaysig18" txd="ccroadsig" flags="" lodDistance="299"></definition>
+    <definition id="cc_hiwaysig19" zone="dynamic" col="cc_hiwaysig19" txd="ccroadsig" flags="" lodDistance="299"></definition>
+</zoneDefinitions>

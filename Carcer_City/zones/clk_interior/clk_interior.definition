@@ -1,0 +1,22 @@
+<zoneDefinitions>
+    <definition id="industbox" zone="clk_interior" col="industbox" txd="fnwarehaus" flags="" lodDistance="299"></definition>
+    <definition id="misswareceiling" zone="clk_interior" col="misswareceiling" txd="fnwarehaus" flags="" lodDistance="299"></definition>
+    <definition id="misswarepics" zone="clk_interior" col="misswarepics" txd="fnwarehaus" flags="" lodDistance="299"></definition>
+    <definition id="misswaretools" zone="clk_interior" col="misswaretools" txd="fnwarehaus" flags="" lodDistance="299"></definition>
+    <definition id="misswarerecep" zone="clk_interior" col="misswarerecep" txd="fnwarehaus" flags="" lodDistance="299"></definition>
+    <definition id="misswarehouseshell" zone="clk_interior" col="misswarehouseshell" txd="fnwarehaus" flags="" lodDistance="299"></definition>
+    <definition id="debthaus" zone="clk_interior" col="debthaus" txd="debthaus" flags="" lodDistance="299"></definition>
+    <definition id="liamaptshell" zone="clk_interior" col="liamaptshell" txd="liamapt1" flags="" lodDistance="299"></definition>
+    <definition id="liamapt1kitch" zone="clk_interior" col="liamapt1kitch" txd="liamapt1" flags="" lodDistance="299"></definition>
+    <definition id="liamaptliv" zone="clk_interior" col="liamaptliv" txd="liamapt1" flags="" lodDistance="299"></definition>
+    <definition id="liamapt1bed" zone="clk_interior" col="liamapt1bed" txd="liamapt1" flags="" lodDistance="299"></definition>
+    <definition id="liamapt1decor" zone="clk_interior" col="liamapt1decor" txd="liamapt1" flags="" lodDistance="299"></definition>
+    <definition id="ammu_carc_bits" zone="clk_interior" col="ammu_carc_bits" txd="chu_marammu" flags="" lodDistance="299"></definition>
+    <definition id="ammu_carc_bits2" zone="clk_interior" col="ammu_carc_bits2" txd="chu_marammu" flags="" lodDistance="299"></definition>
+    <definition id="ammu_carc_bits3" zone="clk_interior" col="ammu_carc_bits3" txd="chu_marammu" flags="" lodDistance="299"></definition>
+    <definition id="ammu_carc_main" zone="clk_interior" col="ammu_carc_main" txd="chu_marammu" flags="" lodDistance="299"></definition>
+    <definition id="ammu_carc_net" zone="clk_interior" col="ammu_carc_net" txd="chu_marammu" flags="" lodDistance="299"></definition>
+    <definition id="ammu_carc_wnd" zone="clk_interior" col="ammu_carc_wnd" txd="chu_marammu" flags="" lodDistance="299"></definition>
+    <definition id="cc_toolshop" zone="clk_interior" col="cc_toolshop" txd="toolshop" flags="" lodDistance="299"></definition>
+    <definition id="crackhouse" zone="clk_interior" col="crackhouse" txd="crackhouse" flags="" lodDistance="299"></definition>
+</zoneDefinitions>
